@@ -19,4 +19,4 @@ The **Weather App** is a simple and responsive web application that provides rea
 ## 🚀 How to Use
 1. Clone or download this repository.  
    ```bash
-   git clone https://github.com/your-username/weather-app.git
+   git clone https://github.com/Aleen15/weather-app.git
